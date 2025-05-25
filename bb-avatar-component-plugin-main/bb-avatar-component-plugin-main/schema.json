@@ -35,6 +35,12 @@
         "key": "caption",
         "label": "Caption",
         "dependsOn": "isShowingDetails"
+      },
+      {
+        "type": "text",
+        "key": "data",
+        "label": "data",
+        "dependsOn": "isShowingDetails"
       }
     ]
   }
