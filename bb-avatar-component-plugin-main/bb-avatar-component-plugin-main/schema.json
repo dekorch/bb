@@ -14,7 +14,7 @@
       },
       {
         "type": "select",
-        "options": ["16px", "24px", "32px","40px", "48px"],
+        "options": ["16px", "24px", "32px","40px", "48px", "68px"],
         "key": "size",
         "label": "Avatar Size",
         "defaultValue": "32px"
